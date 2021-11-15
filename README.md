@@ -28,4 +28,4 @@
 
 # Covid Tracker App
 
-![Tracker](https://github.com/NJevric/unfinished_projects/blob/main/covid_tracker.png)
+![Tracker](https://github.com/NJevric/unfinished_projects/blob/main/covid_tracker.jpeg)

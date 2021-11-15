@@ -5,22 +5,22 @@
 
 <br/>
 
-##register
+## register
 ![Register](https://github.com/NJevric/unfinished_projects/blob/main/social_register.png)
 
 <br/>
 
-##login
+## login
 ![Login](https://github.com/NJevric/unfinished_projects/blob/main/social_login.png)
 
 <br/>
 
-##feed
+## feed
 ![Login](https://github.com/NJevric/unfinished_projects/blob/main/social_feed.png)
 
 <br/>
 
-##profile
+## profile
 ![Login](https://github.com/NJevric/unfinished_projects/blob/main/social_profile.png)
 
 <br/>
